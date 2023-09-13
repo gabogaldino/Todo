@@ -1,4 +1,6 @@
 ## Aplicação de Lista de Tarefas em React
+![image](https://github.com/gabogaldino/Todo/assets/66391286/939bf2b0-e0c7-48af-872e-290a2a52caaa)
+
 Esta é uma aplicação de lista de tarefas simples criada em React por meio [deste tutorial](https://www.youtube.com/watch?v=YVEVrigByKY&t=1218s). Ela permite que você adicione, pesquise, filtre, complete e exclua tarefas da sua lista de afazeres.
 
 ## Como Usar
