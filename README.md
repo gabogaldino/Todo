@@ -14,7 +14,7 @@ Inicie a aplicação.
 npm run dev
 ```
 
-Abra seu navegador e acesse [http://localhost:3000](http://localhost:5173/) para visualizar a aplicação.
+Abra seu navegador e acesse [http://localhost:5173](http://localhost:5173/) para visualizar a aplicação.
 
 ## Estrutura do Projeto
 src/App.js: O arquivo principal da aplicação React, que contém a lógica principal da lista de tarefas.
