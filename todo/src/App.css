@@ -36,6 +36,7 @@ button {
   background-color: #333974;
   color: #FFF;
   padding: 5px  10px;
+  margin-right: 10px;
   border: none;
   border-radius: 3px;
   cursor: pointer;
@@ -47,11 +48,37 @@ button:hover {
   opacity: 1;
 }
 
+.todo-list {
+  margin-bottom: 20px;
+  padding-bottom: 20px;
+  border-bottom: 1px solid #555;
+}
+
+.todo {
+  background-color: #fff;
+  box-shadow: 0 0 10px rgba(o, o, o, o.1);
+  padding: 10px;
+  margin-bottom: 10px;
+  border-radius: 5px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.complete {
+  background-color: #5cb85c;
+}
+
+.remove {
+  background-color: #d9534f;
+}
+
 .todo-form {
   padding-bottom: 1.5rem;
 }
 
-input, select {
+input, 
+select {
   padding: 5px;
   margin-bottom: 10px;
   border: 1px solid #DDD;
