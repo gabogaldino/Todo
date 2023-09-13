@@ -1,7 +1,7 @@
-import { useState } from 'react'
+import { useState } from 'react';
 import "./App.css";
-import Todo from "./components/Tod.jsx";
-import Todo from "./components/TodoForm.jsx";
+import Todo from "./components/Todo";
+import Todo from "./components/TodoForm";
 
 function App() {
   const [todos, setTodos] = useState([
@@ -38,4 +38,4 @@ function App() {
     );
 }
 
-export default App
+export default App;

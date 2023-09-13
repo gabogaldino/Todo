@@ -1,6 +1,6 @@
 import React from 'react'
 
-export const Todo = ({todo}) => {
+export const Todo = ({ todo }) => {
   return (
     <div className="todo">
     <div className="content">
@@ -14,3 +14,5 @@ export const Todo = ({todo}) => {
       </div>
   );
 };
+
+export default Todo;
